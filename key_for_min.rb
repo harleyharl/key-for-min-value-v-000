@@ -14,6 +14,7 @@ def key_for_min_value(name_hash)
       nil
     end
    end
+   lowest_key
   #  name_hash.select.each do |key, value|
   #    value.include?("#{lowest_value}")
   #  end
